@@ -1,0 +1,601 @@
+﻿species,reproductive.mode,Mass,Forage mode
+Acanthocercus_atricollis,Oviparous,100.9,sit and wait
+Acanthodactylus_beershebensis,Oviparous,69.2,widely foraging
+Acanthodactylus_boskianus,Oviparous,73.7,widely foraging
+Acanthodactylus_erythrurus,Oviparous,81,mixed
+Acanthodactylus_pardalis,Oviparous,84,sit and wait
+Acanthodactylus_schreiberi,Oviparous,101.1,widely foraging
+Acanthodactylus_scutellatus,Oviparous,67.2,mixed
+Acontias_gariepensis,Viviparous,205.7,widely foraging
+Aeluroscalabotes_felinus,Oviparous,147.8,sit and wait
+Agama_aculeata,Oviparous,79.1,sit and wait
+Agama_agama,Oviparous,91.6,sit and wait
+Agama_hispida,Oviparous,85.4,sit and wait
+Agama_impalearis,Oviparous,81.6,sit and wait
+Agama_kirkii,Oviparous,107.1,sit and wait
+Alopoglossus_angulatus,Oviparous,65.2,widely foraging
+Alopoglossus_atriventris,Oviparous,67.5,widely foraging
+Ameiva_ameiva,Oviparous,116.9,widely foraging
+Ameiva_parecis,Oviparous,107.2,widely foraging
+Ameivula_ocellifera,Oviparous,80.8,widely foraging
+Amphibolurus_muricatus,Oviparous,92.2,sit and wait
+Amphibolurus_norrisi,Oviparous,91.6,sit and wait
+Anepischetosia_maccoyi,Oviparous,70.4,widely foraging
+Anguis_fragilis,Viviparous,157.8,widely foraging
+Anniella_geronimensis,Viviparous,78.6,widely foraging
+Anniella_pulchra,Viviparous,124.6,widely foraging
+Anolis_acutus,Oviparous,55.7,sit and wait
+Anolis_aeneus,Oviparous,61.6,sit and wait
+Anolis_agassizi,Oviparous,73.1,mixed
+Anolis_angusticeps,Oviparous,41,widely foraging
+Anolis_auratus,Oviparous,53.4,sit and wait
+Anolis_barbatus,Oviparous,135.2,sit and wait
+Anolis_barbouri,Oviparous,45.4,sit and wait
+Anolis_biporcatus,Oviparous,77.8,sit and wait
+Anolis_brasiliensis,Oviparous,71.9,sit and wait
+Anolis_capito,Oviparous,74.9,sit and wait
+Anolis_carolinensis,Oviparous,59.6,sit and wait
+Anolis_carpenteri,Oviparous,71.9,sit and wait
+Anolis_christophei,Oviparous,52.8,sit and wait
+Anolis_chrysolepis,Oviparous,74.9,mixed
+Anolis_cristatellus,Oviparous,60.2,sit and wait
+Anolis_cupreus,Oviparous,48.4,sit and wait
+Anolis_fuscoauratus,Oviparous,44.6,sit and wait
+Anolis_garmani,Oviparous,74.9,sit and wait
+Anolis_gemmosus,Oviparous,74.3,sit and wait
+Anolis_grahami,Oviparous,49.9,sit and wait
+Anolis_gundlachi,Oviparous,46.6,sit and wait
+Anolis_heterodermus,Oviparous,60.2,widely foraging
+Anolis_homolechis,Oviparous,44,mixed
+Anolis_humilis,Oviparous,44.6,mixed
+Anolis_krugi,Oviparous,42.5,sit and wait
+Anolis_lemurinus,Oviparous,67.5,sit and wait
+Anolis_limifrons,Oviparous,41,sit and wait
+Anolis_lineatopus,Oviparous,57.2,sit and wait
+Anolis_lionotus,Oviparous,73.4,sit and wait
+Anolis_luciae,Oviparous,63.1,sit and wait
+Anolis_meridionalis,Oviparous,71.3,mixed
+Anolis_nebulosus,Oviparous,48.4,mixed
+Anolis_oculatus,Oviparous,62.2,sit and wait
+Anolis_opalinus,Oviparous,52.2,sit and wait
+Anolis_ortonii,Oviparous,55.1,sit and wait
+Anolis_oxylophus,Oviparous,71.9,sit and wait
+Anolis_planiceps,Oviparous,71.9,sit and wait
+Anolis_poecilopus,Oviparous,80.7,sit and wait
+Anolis_polylepis,Oviparous,51.3,sit and wait
+Anolis_punctatus,Oviparous,71.9,sit and wait
+Anolis_sagrei,Oviparous,42.5,sit and wait
+Anolis_scypheus,Oviparous,82.2,sit and wait
+Anolis_tandai,Oviparous,76.3,sit and wait
+Anolis_trachyderma,Oviparous,70.4,sit and wait
+Anolis_transversalis,Oviparous,107.2,sit and wait
+Anolis_tropidolepis,Oviparous,55.7,sit and wait
+Anolis_valencienni,Oviparous,64,widely foraging
+Anotosaura_vanzolinia,Oviparous,57.9,widely foraging
+Aristelliger_cochranae,Oviparous,56.6,widely foraging
+Aristelliger_praesignis,Oviparous,63.8,sit and wait
+Arthrosaura_reticulata,Oviparous,70.8,widely foraging
+Aspidoscelis_burti,Oviparous,97.9,widely foraging
+Aspidoscelis_deppii,Oviparous,90.1,widely foraging
+Aspidoscelis_exsanguis,Oviparous,103.5,widely foraging
+Aspidoscelis_gularis,Oviparous,96.3,widely foraging
+Aspidoscelis_guttatus,Oviparous,104.1,widely foraging
+Aspidoscelis_hyperythrus,Oviparous,80.8,widely foraging
+Aspidoscelis_inornatus,Oviparous,93.2,widely foraging
+Aspidoscelis_laredoensis,Oviparous,96.3,widely foraging
+Aspidoscelis_lineattissimus,Oviparous,96.3,widely foraging
+Aspidoscelis_marmoratus,Oviparous,102.5,widely foraging
+Aspidoscelis_neomexicanus,Oviparous,100.4,widely foraging
+Aspidoscelis_parvisocius,Oviparous,85.4,widely foraging
+Aspidoscelis_scalaris,Oviparous,96.3,widely foraging
+Aspidoscelis_sexlineatus,Oviparous,91.7,widely foraging
+Aspidoscelis_sonorae,Oviparous,79.2,widely foraging
+Aspidoscelis_tesselatus,Oviparous,124.3,widely foraging
+Aspidoscelis_tigris,Oviparous,97.9,widely foraging
+Aspidoscelis_uniparens,Oviparous,83.9,widely foraging
+Aspidoscelis_velox,Oviparous,104.1,widely foraging
+Atlantolacerta_andreanskyi,Oviparous,61,widely foraging
+Bachia_bicolor,Oviparous,79,widely foraging
+Barisia_imbricata,Viviparous,105.9,widely foraging
+Basiliscus_basiliscus,Oviparous,124.7,sit and wait
+Basiliscus_vittatus,Oviparous,116.6,sit and wait
+Bradypodion_pumilum,Viviparous,52.3,mixed
+Brasiliscincus_agilis,Viviparous,103,widely foraging
+Brasiliscincus_heathi,Viviparous,90.8,mixed
+Bunopus_blanfordii,Oviparous,53.7,sit and wait
+Bunopus_tuberculatus,Oviparous,52.4,sit and wait
+Callisaurus_draconoides,Oviparous,72.4,sit and wait
+Calotes_mystaceus,Oviparous,72.9,widely foraging
+Calotes_versicolor,Oviparous,67.4,sit and wait
+Carinascincus_coventryi,Viviparous,51.7,widely foraging
+Carinascincus_ocellatus,Viviparous,89.8,widely foraging
+Carlia_ailanpalai,Oviparous,70.8,widely foraging
+Carlia_bicarinata,Oviparous,51.4,widely foraging
+Carlia_jarnoldae,Oviparous,53,widely foraging
+Carlia_longipes,Oviparous,71.4,widely foraging
+Carlia_pectoralis,Oviparous,59.5,widely foraging
+Carlia_rhomboidalis,Oviparous,59.5,widely foraging
+Carlia_rostralis,Oviparous,76.2,widely foraging
+Carlia_rubrigularis,Oviparous,67.9,widely foraging
+Carlia_storri,Oviparous,60.4,widely foraging
+Cercosaura_eigenmanni,Oviparous,58.9,widely foraging
+Cercosaura_ocellata,Oviparous,64.2,widely foraging
+Cercosaura_oshaughnessyi,Oviparous,62.5,widely foraging
+Cercosaura_schreibersii,Oviparous,44.4,widely foraging
+Chalcides_ocellatus,Viviparous,114.3,mixed
+Chamaeleo_chamaeleon,Oviparous,68.9,sit and wait
+Chamaeleo_dilepis,Oviparous,80.4,sit and wait
+Chamaeleo_namaquensis,Oviparous,70.5,widely foraging
+Chatogekko_amazonicus,Oviparous,32,sit and wait
+Chlamydosaurus_kingii,Oviparous,147.5,sit and wait
+Chondrodactylus_angulifer,Oviparous,100.7,sit and wait
+Chondrodactylus_bibronii,Oviparous,73.1,sit and wait
+Cnemidophorus_cryptus,Oviparous,93.2,widely foraging
+Cnemidophorus_gramivagus,Oviparous,96.3,widely foraging
+Cnemidophorus_lemniscatus,Oviparous,74.6,widely foraging
+Coleodactylus_meridionalis,Oviparous,31.7,mixed
+Coleodactylus_septentrionalis,Oviparous,34.6,sit and wait
+Coleonyx_brevis,Oviparous,71.3,widely foraging
+Coleonyx_variegatus,Oviparous,84.3,mixed
+Colobosaura_modesta,Oviparous,67.5,widely foraging
+Colopus_wahlbergii,Oviparous,64.8,sit and wait
+Concinnia_queenslandiae,Viviparous,99.8,sit and wait
+Contomastix_lacertoides,Oviparous,77.7,widely foraging
+Copeoglossum_arajara,Viviparous,107.9,mixed
+Copeoglossum_nigropunctatum,Viviparous,110.2,widely foraging
+Cophosaurus_texanus,Oviparous,59.1,sit and wait
+Cordylus_cordylus,Viviparous,119.9,sit and wait
+Corytophanes_cristatus,Oviparous,92.3,sit and wait
+Corytophanes_hernandesii,Oviparous,116.6,sit and wait
+Crocodilurus_amazonicus,Oviparous,223.8,widely foraging
+Crotaphytus_bicinctores,Oviparous,55,widely foraging
+Crotaphytus_collaris,Oviparous,58.1,sit and wait
+Crotaphytus_reticulatus,Oviparous,54.2,mixed
+Cryptoblepharus_buchananii,Oviparous,65.9,widely foraging
+Cryptoblepharus_plagiocephalus,Oviparous,46.5,widely foraging
+Cryptoblepharus_poecilopleurus,Oviparous,60.4,widely foraging
+Cryptoblepharus_virgatus,Oviparous,53,widely foraging
+Ctenophorus_caudicinctus,Oviparous,65.2,sit and wait
+Ctenophorus_clayi,Oviparous,72.9,sit and wait
+Ctenophorus_cristatus,Oviparous,99.3,sit and wait
+Ctenophorus_fordi,Oviparous,71.4,sit and wait
+Ctenophorus_isolepis,Oviparous,74.5,sit and wait
+Ctenophorus_nuchalis,Oviparous,100.9,sit and wait
+Ctenophorus_ornatus,Oviparous,104,sit and wait
+Ctenophorus_reticulatus,Oviparous,66.7,sit and wait
+Ctenophorus_scutulatus,Oviparous,85.4,sit and wait
+Ctenosaura_similis,Oviparous,154.7,sit and wait
+Ctenotus_ariadnae,Oviparous,88.5,widely foraging
+Ctenotus_atlas,Oviparous,95,widely foraging
+Ctenotus_brooksi,Oviparous,62.7,widely foraging
+Ctenotus_calurus,Oviparous,75.6,widely foraging
+Ctenotus_dux,Oviparous,88.5,widely foraging
+Ctenotus_grandis,Oviparous,101.4,widely foraging
+Ctenotus_leonhardii,Oviparous,88.5,widely foraging
+Ctenotus_nasutus,Oviparous,67.5,widely foraging
+Ctenotus_pantherinus,Oviparous,98.2,widely foraging
+Ctenotus_piankai,Oviparous,78.8,widely foraging
+Ctenotus_quattuordecimlineatus,Oviparous,90.1,widely foraging
+Ctenotus_regius,Oviparous,88.5,widely foraging
+Ctenotus_robustus,Oviparous,111.1,widely foraging
+Ctenotus_schomburgkii,Oviparous,64.3,widely foraging
+Ctenotus_taeniolatus,Oviparous,91.7,mixed
+Cyclodomorphus_casuarinae,Viviparous,134.7,mixed
+Cyclodomorphus_melanops,Viviparous,128.2,widely foraging
+Cyclura_carinata,Oviparous,232.9,sit and wait
+Cyrtodactylus_consobrinus,Oviparous,81.3,sit and wait
+Cyrtodactylus_fumosus,Oviparous,73.1,widely foraging
+Cyrtodactylus_louisiadensis,Oviparous,172.5,widely foraging
+Cyrtodactylus_seribuatensis,Oviparous,68.9,widely foraging
+Cyrtopodion_scabrum,Oviparous,59.3,mixed
+Darevskia_pontica,Oviparous,64.5,widely foraging
+Dasia_olivacea,Oviparous,107.9,widely foraging
+Delma_butleri,Oviparous,47.3,widely foraging
+Diplodactylus_conspicillatus,Oviparous,73.1,sit and wait
+Diplodactylus_pulcher,Oviparous,76.2,sit and wait
+Diplodactylus_tessellatus,Oviparous,65.5,sit and wait
+Diporiphora_amphiboluroides,Oviparous,113.3,sit and wait
+Diporiphora_paraconvergens,Oviparous,93.1,sit and wait
+Diporiphora_winneckei,Oviparous,60.5,sit and wait
+Dipsosaurus_dorsalis,Oviparous,130.9,sit and wait
+Draco_quinquefasciatus,Oviparous,89.7,sit and wait
+Draco_spilopterus,Oviparous,85.4,sit and wait
+Draco_volans,Oviparous,77.6,sit and wait
+Dryadosaura_nordestina,Oviparous,55.9,widely foraging
+Egernia_depressa,Viviparous,175.7,widely foraging
+Egernia_striolata,Viviparous,157.9,sit and wait
+Elgaria_coerulea,Viviparous,100.4,sit and wait
+Elgaria_kingii,Oviparous,109.1,widely foraging
+Elgaria_multicarinata,Oviparous,102.1,mixed
+Elgaria_paucicarinata,Oviparous,133.4,widely foraging
+Emoia_atrocostata,Oviparous,90.1,widely foraging
+Emoia_cyanura,Oviparous,64.3,widely foraging
+Emoia_lawesi,Oviparous,99.8,widely foraging
+Emoia_nigra,Oviparous,107.9,widely foraging
+Emoia_samoensis,Oviparous,95,widely foraging
+Enyalioides_cofanorum,Oviparous,176.6,sit and wait
+Enyalioides_laticeps,Oviparous,134.4,sit and wait
+Enyalius_iheringii,Oviparous,87.9,sit and wait
+Enyalius_perditus,Oviparous,94.7,mixed
+Eremias_arguta,Oviparous,84,widely foraging
+Eremias_intermedia,Oviparous,78.1,widely foraging
+Eremias_multiocellata,Viviparous,72.8,widely foraging
+Eremiascincus_fasciolatus,Oviparous,104.7,sit and wait
+Eremiascincus_richardsonii,Oviparous,99.8,widely foraging
+Eublepharis_macularius,Oviparous,159.2,sit and wait
+Eulamprus_quoyii,Viviparous,119.5,widely foraging
+Eulamprus_tympanum,Viviparous,109.5,widely foraging
+Eutropis_carinata,Oviparous,85.9,widely foraging
+Eutropis_indeprensa,Oviparous,71.1,widely foraging
+Eutropis_longicaudata,Oviparous,128.2,widely foraging
+Eutropis_macularia,Oviparous,67.5,widely foraging
+Eutropis_multicarinata,Oviparous,90.1,widely foraging
+Eutropis_multifasciata,Viviparous,117.6,widely foraging
+Gallotia_atlantica,Oviparous,84.3,sit and wait
+Gallotia_caesaris,Oviparous,93.4,widely foraging
+Gambelia_sila,Oviparous,69.1,mixed
+Gambelia_wislizenii,Oviparous,67.5,sit and wait
+Gehyra_insulensis,Oviparous,52.4,sit and wait
+Gehyra_mutilata,Oviparous,52.4,sit and wait
+Gehyra_oceanica,Oviparous,81.3,sit and wait
+Gehyra_variegata,Oviparous,59.3,mixed
+Gekko_gecko,Oviparous,120,mixed
+Gekko_vittatus,Oviparous,97.9,widely foraging
+Gerrhonotus_infernalis,Oviparous,121.3,widely foraging
+Gerrhosaurus_flavigularis,Oviparous,139.6,widely foraging
+Gonatodes_albogularis,Oviparous,49.8,sit and wait
+Gonatodes_concinnatus,Oviparous,50.4,sit and wait
+Gonatodes_hasemani,Oviparous,59.9,sit and wait
+Gonatodes_humeralis,Oviparous,45.9,sit and wait
+Gonatodes_vittatus,Oviparous,41.5,sit and wait
+Goniurosaurus_araneus,Oviparous,149.4,widely foraging
+Goniurosaurus_kuroiwae,Oviparous,105.5,widely foraging
+Gowidon_longirostris,Oviparous,83.8,sit and wait
+Gowidon_temporalis,Oviparous,110.2,sit and wait
+Gymnodactylus_amarali,Oviparous,54.4,sit and wait
+Gymnodactylus_geckoides,Oviparous,55.3,mixed
+Gymnophthalmus_speciosus,Oviparous,52.6,widely foraging
+Gymnophthalmus_underwoodi,Oviparous,52.6,widely foraging
+Heliobolus_lugubris,Oviparous,56,widely foraging
+Hellenolacerta_graeca,Oviparous,79.6,sit and wait
+Heloderma_horridum,Oviparous,375.5,widely foraging
+Heloderma_suspectum,Oviparous,424.2,widely foraging
+Hemicordylus_capensis,Viviparous,154.7,sit and wait
+Hemidactylus_brasilianus,Oviparous,54.8,sit and wait
+Hemidactylus_brookii,Oviparous,59,sit and wait
+Hemidactylus_flaviviridis,Oviparous,66.2,widely foraging
+Hemidactylus_frenatus,Oviparous,53.7,mixed
+Hemidactylus_garnotii,Oviparous,60.6,sit and wait
+Hemidactylus_hunae,Oviparous,81.3,widely foraging
+Hemidactylus_mabouia,Oviparous,57.9,sit and wait
+Hemidactylus_platyurus,Oviparous,56.5,sit and wait
+Hemidactylus_turcicus,Oviparous,60.6,mixed
+Hemiphyllodactylus_typus,Oviparous,43.2,widely foraging
+Heremites_vittatus,Viviparous,78.8,sit and wait
+Hesperoedura_reticulata,Oviparous,74.7,sit and wait
+Heteronotia_binoei,Oviparous,49.6,mixed
+Holbrookia_maculata,Oviparous,52.4,sit and wait
+Holbrookia_propinqua,Oviparous,67.1,sit and wait
+Holcosus_festivus,Oviparous,110.3,widely foraging
+Holcosus_quadrilineatus,Oviparous,91.7,widely foraging
+Holcosus_undulatus,Oviparous,103.2,widely foraging
+Homonota_darwinii,Oviparous,57.7,sit and wait
+Homopholis_walbergii,Oviparous,57.9,sit and wait
+Iberolacerta_aranica,Oviparous,70.4,widely foraging
+Iberolacerta_bonnali,Oviparous,67.5,widely foraging
+Iberolacerta_cyreni,Oviparous,73.7,widely foraging
+Iberolacerta_horvathi,Oviparous,68.6,widely foraging
+Iberolacerta_monticola,Oviparous,66.6,widely foraging
+Ichnotropis_capensis,Oviparous,54.5,widely foraging
+Intellagama_lesueurii,Oviparous,141.2,widely foraging
+Iphisa_elegans,Oviparous,84,widely foraging
+Japalura_swinhonis,Oviparous,60.5,sit and wait
+Kentropyx_altamazonica,Oviparous,94.5,widely foraging
+Kentropyx_calcarata,Oviparous,99.4,widely foraging
+Kentropyx_pelviceps,Oviparous,111.9,widely foraging
+Kentropyx_striata,Oviparous,90.1,widely foraging
+Lacerta_agilis,Oviparous,75.1,widely foraging
+Lacerta_media,Oviparous,89.9,widely foraging
+Lacerta_trilineata,Oviparous,119.4,widely foraging
+Lacerta_viridis,Oviparous,91.4,widely foraging
+Lamprolepis_smaragdina,Oviparous,111.1,widely foraging
+Lampropholis_coggeri,Oviparous,49.8,widely foraging
+Lampropholis_delicata,Oviparous,51.7,mixed
+Lampropholis_guichenoti,Oviparous,56.2,widely foraging
+Lankascincus_fallax,Oviparous,54,widely foraging
+Latastia_longicaudata,Oviparous,91.4,mixed
+Laudakia_tuberculata,Oviparous,90,mixed
+Leiocephalus_carinatus,Oviparous,105.2,sit and wait
+Leiocephalus_psammodromus,Oviparous,100.4,sit and wait
+Leiocephalus_schreibersii,Oviparous,90.6,sit and wait
+Leiocephalus_semilineatus,Oviparous,76,sit and wait
+Leiocephalus_stictigaster,Oviparous,68.9,sit and wait
+Lepidoblepharis_xanthostigma,Oviparous,34.1,sit and wait
+Lepidodactylus_lugubris,Oviparous,44.1,sit and wait
+Lerista_bipes,Oviparous,74,widely foraging
+Lerista_punctatovittata,Oviparous,120.8,widely foraging
+Lialis_burtonis,Oviparous,94.6,mixed
+Liolaemus_andinus,Viviparous,82,sit and wait
+Liolaemus_bibronii,Oviparous,78.9,sit and wait
+Liolaemus_chacoensis,Oviparous,48,sit and wait
+Liolaemus_cyanogaster,Viviparous,71.2,sit and wait
+Liolaemus_elongatus,Viviparous,83.9,sit and wait
+Liolaemus_gracilis,Oviparous,68.4,sit and wait
+Liolaemus_huacahuasicus,unclear,75.8,sit and wait
+Liolaemus_koslowskyi,Oviparous,63.5,sit and wait
+Liolaemus_lutzae,Oviparous,82.3,sit and wait
+Liolaemus_multimaculatus,Oviparous,81.7,sit and wait
+Liolaemus_pictus,Viviparous,80.5,sit and wait
+Liolaemus_ruibali,Viviparous,54.2,sit and wait
+Liolaemus_wiegmannii,Oviparous,57.3,sit and wait
+Liopholis_inornata,Viviparous,103,mixed
+Liopholis_striata,Viviparous,127.3,mixed
+Liopholis_whitii,Viviparous,119.2,widely foraging
+Lipinia_noctua,Viviparous,59.8,widely foraging
+Lipinia_pulchella,Oviparous,63,widely foraging
+Lipinia_vittigera,Oviparous,73.7,widely foraging
+Lophognathus_gilberti,Oviparous,82.3,sit and wait
+Lophosaurus_boydii,Oviparous,116.4,sit and wait
+Lophosaurus_spinipes,Oviparous,91.6,sit and wait
+Loxopholis_parietalis,Oviparous,51,widely foraging
+Loxopholis_percarinatum,Oviparous,47.3,widely foraging
+Loxopholis_rugiceps,Oviparous,51.3,widely foraging
+Lucasium_damaeum,Oviparous,56.3,mixed
+Lucasium_stenodactylum,Oviparous,70.1,sit and wait
+Lygodactylus_capensis,Oviparous,34.4,sit and wait
+Lygodactylus_klugei,Oviparous,33,mixed
+Lygodactylus_picturatus,Oviparous,27.5,mixed
+Lygodactylus_somalicus,Oviparous,27.5,sit and wait
+Mabuya_mabouya,Viviparous,88.5,widely foraging
+Marisora_unimarginata,Viviparous,91.7,widely foraging
+Mediodactylus_kotschyi,Oviparous,47.7,sit and wait
+Menetia_greyii,Oviparous,38.5,widely foraging
+Meroles_anchietae,Oviparous,73.7,mixed
+Meroles_cuneirostris,Oviparous,74.5,widely foraging
+Meroles_squamulosus,Oviparous,81,sit and wait
+Meroles_suborbitalis,Oviparous,73.7,sit and wait
+Mesalina_brevirostris,Oviparous,64.8,widely foraging
+Mesalina_guttulata,Oviparous,57.4,sit and wait
+Mesalina_olivieri,Oviparous,57.4,widely foraging
+Mesaspis_monticola,Viviparous,81.2,sit and wait
+Micrablepharus_atticolus,Oviparous,47.7,widely foraging
+Micrablepharus_maximiliani,Oviparous,67.5,widely foraging
+Mochlus_sundevalli,Oviparous,72.4,widely foraging
+Moloch_horridus,Oviparous,102.4,sit and wait
+Morethia_adelaidensis,Oviparous,49.8,widely foraging
+Morethia_boulengeri,Oviparous,57.8,widely foraging
+Morethia_obscura,Oviparous,54.6,widely foraging
+Nactus_pelagicus,Oviparous,55.9,sit and wait
+Naultinus_gemmeus,Viviparous,96.1,sit and wait
+Nephrurus_laevissimus,Oviparous,75.6,sit and wait
+Nephrurus_levis,Oviparous,80.1,sit and wait
+Nephrurus_vertebralis,Oviparous,83.9,sit and wait
+Notomabuya_frenata,Viviparous,88.5,mixed
+Nucras_intertexta,Oviparous,78.1,widely foraging
+Nucras_lalandii,Oviparous,61.9,widely foraging
+Nucras_tessellata,Oviparous,89.9,widely foraging
+Oedura_marmorata,Oviparous,106.8,sit and wait
+Oedura_monilis,Oviparous,93,sit and wait
+Oedura_tryoni,Oviparous,105.2,sit and wait
+Oligosoma_grande,Viviparous,117.6,widely foraging
+Oligosoma_inconspicuum,Viviparous,72.4,widely foraging
+Oligosoma_maccanni,Viviparous,79.2,widely foraging
+Oligosoma_polychroma,Viviparous,95,widely foraging
+Oligosoma_suteri,Oviparous,111.1,widely foraging
+Oligosoma_zelandicum,Viviparous,78.8,widely foraging
+Omanosaura_cyanura,Oviparous,76.6,widely foraging
+Ophisops_elegans,Oviparous,60.1,widely foraging
+Oplurus_cuvieri,Oviparous,170.9,mixed
+Otosaurus_cumingi,Oviparous,123.1,widely foraging
+Pachydactylus_capensis,Oviparous,56.5,sit and wait
+Panaspis_maculicollis,Oviparous,49.8,widely foraging
+Panaspis_nimbaensis,Oviparous,53,widely foraging
+Panaspis_wahlbergi,Oviparous,45.2,widely foraging
+Parvoscincus_steerei,Oviparous,42,widely foraging
+Pedioplanis_lineoocellata,Oviparous,51.5,sit and wait
+Pedioplanis_namaquensis,Oviparous,60.4,widely foraging
+Phelsuma_grandis,Oviparous,82.7,sit and wait
+Phelsuma_madagascariensis,Oviparous,78.6,sit and wait
+Phoenicolacerta_laevis,Oviparous,68.3,widely foraging
+Pholidoscelis_exsul,Oviparous,105,widely foraging
+Pholidoscelis_fuscatus,Oviparous,153.9,widely foraging
+Pholidoscelis_plei,Oviparous,113.4,widely foraging
+Phrynocephalus_helioscopus,Oviparous,71.1,sit and wait
+Phrynocephalus_interscapularis,Oviparous,62.1,sit and wait
+Phrynocephalus_theobaldi,Viviparous,73.9,sit and wait
+Phrynosoma_asio,Oviparous,88.5,sit and wait
+Phrynosoma_blainvillii,Oviparous,68.4,widely foraging
+Phrynosoma_cornutum,Oviparous,52.4,sit and wait
+Phrynosoma_coronatum,Oviparous,71.1,mixed
+Phrynosoma_douglasii,Viviparous,46.5,sit and wait
+Phrynosoma_hernandesi,Viviparous,65.7,sit and wait
+Phrynosoma_mcallii,Oviparous,87.2,sit and wait
+Phrynosoma_modestum,Oviparous,47,mixed
+Phrynosoma_orbiculare,Viviparous,60.9,sit and wait
+Phrynosoma_platyrhinos,Oviparous,65.7,sit and wait
+Phrynosoma_solare,Oviparous,77.8,mixed
+Phyllodactylus_microphyllus,Oviparous,63.3,widely foraging
+Phyllodactylus_reissii,Oviparous,63.3,widely foraging
+Phyllodactylus_tuberculosus,Oviparous,63.3,sit and wait
+Phyllopezus_pollicaris,Oviparous,84.8,sit and wait
+Phymaturus_palluma,Viviparous,133.8,sit and wait
+Phymaturus_patagonicus,Viviparous,114.6,sit and wait
+Pinoyscincus_jagori,Oviparous,94.7,widely foraging
+Platysaurus_intermedius,Oviparous,103.7,sit and wait
+Plestiodon_copei,Viviparous,74.6,sit and wait
+Plestiodon_egregius,Oviparous,66.9,widely foraging
+Plestiodon_elegans,Oviparous,80.4,widely foraging
+Plestiodon_fasciatus,Oviparous,74,widely foraging
+Plestiodon_laticeps,Oviparous,89.2,widely foraging
+Plestiodon_latiscutatus,Oviparous,87.5,widely foraging
+Plestiodon_obsoletus,Oviparous,116,widely foraging
+Plestiodon_septentrionalis,Oviparous,72.4,widely foraging
+Plestiodon_skiltonianus,Oviparous,78.8,widely foraging
+Plestiodon_tetragrammus,Oviparous,69.1,widely foraging
+Plica_plica,Oviparous,117.7,sit and wait
+Plica_umbra,Oviparous,96.7,sit and wait
+Podarcis_erhardii,Oviparous,80.7,widely foraging
+Podarcis_gaigeae,Oviparous,79.3,widely foraging
+Podarcis_hispanicus,Oviparous,67.8,widely foraging
+Podarcis_lilfordi,Oviparous,88.1,widely foraging
+Podarcis_melisellensis,Oviparous,67.8,widely foraging
+Podarcis_milensis,Oviparous,69.5,widely foraging
+Podarcis_tauricus,Oviparous,82.2,widely foraging
+Pogona_minor,Oviparous,114.9,sit and wait
+Pogona_vitticeps,Oviparous,119.5,mixed
+Polychrus_acutirostris,Oviparous,116.6,mixed
+Polychrus_marmoratus,Oviparous,131.2,sit and wait
+Potamites_ecpleopus,Oviparous,70.8,widely foraging
+Potamites_juruazensis,Oviparous,74.1,widely foraging
+Psammodromus_algirus,Oviparous,76.6,widely foraging
+Psammodromus_hispanicus,Oviparous,57.4,mixed
+Pseudemoia_entrecasteauxii,Mixed,70.8,widely foraging
+Pseudemoia_spenceri,Viviparous,82.1,widely foraging
+Pseudocordylus_melanotus,Viviparous,132.4,sit and wait
+Pseudocordylus_microlepidotus,Viviparous,152.2,sit and wait
+Pseudogekko_brevipes,Oviparous,48.2,sit and wait
+Pseudogonatodes_guianensis,Oviparous,36.1,sit and wait
+Pseudopus_apodus,Oviparous,281.3,widely foraging
+Pseudotrapelus_sinaitus,Oviparous,85.4,sit and wait
+Psychosaura_macrorhyncha,Viviparous,99.2,mixed
+Ptychoglossus_bicolor,Oviparous,84,widely foraging
+Ptychoglossus_brevifrontalis,Oviparous,90.6,widely foraging
+Ptyodactylus_guttatus,Oviparous,75.6,sit and wait
+Ptyodactylus_hasselquistii,Oviparous,88.3,sit and wait
+Ptyodactylus_ragazzii,Oviparous,78,sit and wait
+Pygopus_lepidopodus,Oviparous,78.9,widely foraging
+Pygopus_nigriceps,Oviparous,94.6,sit and wait
+Quedenfeldtia_trachyblepharus,Oviparous,56.3,sit and wait
+Rhoptropus_barnardi,Oviparous,44.1,sit and wait
+Rhynchoedura_ornata,Oviparous,68.6,sit and wait
+Sauromalus_ater,Oviparous,151.7,sit and wait
+Sceloporus_clarkii,Oviparous,77.8,sit and wait
+Sceloporus_consobrinus,Oviparous,55,sit and wait
+Sceloporus_cozumelae,Oviparous,56.4,sit and wait
+Sceloporus_cyanogenys,Viviparous,73.2,sit and wait
+Sceloporus_graciosus,Oviparous,63.1,sit and wait
+Sceloporus_grammicus,Viviparous,52.4,sit and wait
+Sceloporus_jarrovii,Viviparous,72.4,sit and wait
+Sceloporus_magister,Oviparous,83.1,sit and wait
+Sceloporus_malachiticus,Viviparous,71.1,sit and wait
+Sceloporus_merriami,Oviparous,55,sit and wait
+Sceloporus_minor,Oviparous,70,sit and wait
+Sceloporus_occidentalis,Oviparous,60.4,sit and wait
+Sceloporus_olivaceus,Oviparous,61.5,mixed
+Sceloporus_orcutti,Oviparous,83.1,sit and wait
+Sceloporus_poinsettii,Viviparous,81.8,sit and wait
+Sceloporus_scalaris,Mixed,49.7,sit and wait
+Sceloporus_tristichus,Oviparous,60.4,sit and wait
+Sceloporus_undulatus,Oviparous,61.7,sit and wait
+Sceloporus_variabilis,Oviparous,63.9,sit and wait
+Sceloporus_virgatus,Oviparous,53.7,sit and wait
+Scincella_cherriei,Oviparous,61.1,widely foraging
+Scincella_lateralis,Oviparous,57.8,widely foraging
+Shinisaurus_crocodilurus,Viviparous,104.4,widely foraging
+Sitana_fusca,Oviparous,41.9,sit and wait
+Sitana_ponticeriana,Oviparous,41.9,sit and wait
+Smaug_giganteus,Viviparous,209.6,sit and wait
+Sphenomorphus_maculatus,Oviparous,91.7,mixed
+Stellagama_stellio,Oviparous,91.6,sit and wait
+Stenocercus_roseiventris,Oviparous,99.4,mixed
+Stenocercus_varius,Oviparous,118.5,widely foraging
+Stenodactylus_doriae,Oviparous,73.1,mixed
+Stenodactylus_petrii,Oviparous,73.1,mixed
+Stenodactylus_sthenodactylus,Oviparous,55.1,mixed
+Strophurus_ciliaris,Oviparous,87.2,sit and wait
+Strophurus_elderi,Oviparous,53.6,sit and wait
+Strophurus_strophurus,Oviparous,79.3,sit and wait
+Takydromus_tachydromoides,Oviparous,68.9,widely foraging
+Tarentola_angustimentalis,Oviparous,65.6,sit and wait
+Tarentola_annularis,Oviparous,99.5,mixed
+Tarentola_deserti,Oviparous,101.5,widely foraging
+Tarentola_ephippiata,Oviparous,78,mixed
+Tarentola_mauritanica,Oviparous,54.4,mixed
+Tarentola_neglecta,Oviparous,57.4,widely foraging
+Teira_dugesii,Oviparous,86.3,widely foraging
+Teius_oculatus,Oviparous,111.6,widely foraging
+Teius_teyou,Oviparous,116.2,widely foraging
+Teratoscincus_scincus,Oviparous,112.8,mixed
+Thecadactylus_rapicauda,Oviparous,96.8,sit and wait
+Thecadactylus_solimoensis,Oviparous,116.3,sit and wait
+Tiliqua_adelaidensis,Viviparous,139.5,sit and wait
+Tiliqua_multifasciata,Viviparous,220.9,widely foraging
+Tiliqua_occipitalis,Viviparous,325.8,widely foraging
+Tiliqua_rugosa,Viviparous,443.7,widely foraging
+Trachylepis_buettneri,Oviparous,65.9,widely foraging
+Trachylepis_maculilabris,Oviparous,72.4,widely foraging
+Trachylepis_margaritifera,Oviparous,96.6,sit and wait
+Trachylepis_occidentalis,Mixed,98.2,widely foraging
+Trachylepis_quinquetaeniata,Oviparous,97.6,widely foraging
+Trachylepis_sparsa,Viviparous,85.3,widely foraging
+Trachylepis_spilogaster,Viviparous,77.2,mixed
+Trachylepis_striata,Viviparous,85.3,mixed
+Trachylepis_varia,Mixed,64.3,mixed
+Trachylepis_variegata,Viviparous,56.2,widely foraging
+Trapelus_agnetae,Oviparous,83.8,sit and wait
+Trapelus_sanguinolentus,Oviparous,102.4,mixed
+Trapelus_savignii,Oviparous,92.8,sit and wait
+Trioceros_jacksonii,Viviparous,72.4,mixed
+Tropidophorus_grayi,Viviparous,90.8,widely foraging
+Tropidurus_cocorobensis,Oviparous,61.6,sit and wait
+Tropidurus_etheridgei,Oviparous,68.2,sit and wait
+Tropidurus_hispidus,Oviparous,72.5,sit and wait
+Tropidurus_montanus,Oviparous,75.8,sit and wait
+Tropidurus_semitaeniatus,Oviparous,47.8,sit and wait
+Tropidurus_spinulosus,Oviparous,84.5,sit and wait
+Tropidurus_torquatus,Oviparous,67.1,sit and wait
+Tupinambis_teguixin,Oviparous,275.2,widely foraging
+Tympanocryptis_lineata,Oviparous,63.6,sit and wait
+Uma_exsul,Oviparous,85.8,sit and wait
+Uma_notata,Oviparous,96.5,sit and wait
+Uma_scoparia,Oviparous,100.5,sit and wait
+Underwoodisaurus_milii,Oviparous,80.1,mixed
+Uracentron_azureum,Oviparous,81.8,sit and wait
+Uracentron_flaviceps,Oviparous,96.7,sit and wait
+Uranoscodon_superciliosus,Oviparous,95.4,sit and wait
+Urosaurus_graciosus,Oviparous,61.7,sit and wait
+Urosaurus_ornatus,Oviparous,51.8,sit and wait
+Uta_stansburiana,Oviparous,53.7,sit and wait
+Vanzosaura_rubricauda,Oviparous,48.3,widely foraging
+Varanus_acanthurus,Oviparous,198.2,sit and wait
+Varanus_albigularis,Oviparous,375.5,widely foraging
+Varanus_bengalensis,Oviparous,276.1,widely foraging
+Varanus_brevicaudus,Oviparous,133.2,mixed
+Varanus_caudolineatus,Oviparous,150,widely foraging
+Varanus_eremius,Oviparous,191.7,widely foraging
+Varanus_exanthematicus,Oviparous,252.9,widely foraging
+Varanus_flavescens,Oviparous,223.7,widely foraging
+Varanus_giganteus,Oviparous,480.6,widely foraging
+Varanus_gilleni,Oviparous,191.7,widely foraging
+Varanus_glauerti,Oviparous,202.7,widely foraging
+Varanus_glebopalma,Oviparous,273.9,sit and wait
+Varanus_gouldii,Oviparous,275.2,widely foraging
+Varanus_griseus,Oviparous,323.4,widely foraging
+Varanus_kingorum,Oviparous,154.8,sit and wait
+Varanus_komodoensis,Oviparous,559.2,mixed
+Varanus_mertensi,Oviparous,323.1,widely foraging
+Varanus_mitchelli,Oviparous,214.7,sit and wait
+Varanus_niloticus,Oviparous,407.2,widely foraging
+Varanus_panoptes,Oviparous,352.2,widely foraging
+Varanus_pilbarensis,Oviparous,173.6,widely foraging
+Varanus_rosenbergi,Oviparous,353.8,widely foraging
+Varanus_salvadorii,Oviparous,366.7,sit and wait
+Varanus_salvator,Oviparous,397.5,widely foraging
+Varanus_scalaris,Oviparous,198.5,mixed
+Varanus_similis,Oviparous,179.1,sit and wait
+Varanus_spenceri,Oviparous,395.8,widely foraging
+Varanus_storri,Oviparous,160,sit and wait
+Varanus_tristis,Oviparous,219.5,mixed
+Varanus_varius,Oviparous,334.4,widely foraging
+Varzea_bistriata,Viviparous,110.5,widely foraging
+Vhembelacerta_rupicola,Oviparous,54.8,widely foraging
+Xantusia_henshawi,Viviparous,85.1,sit and wait
+Xantusia_riversiana,Viviparous,92.7,sit and wait
+Xantusia_vigilis,Viviparous,62.3,sit and wait
+Xenosaurus_grandis,Viviparous,154.9,sit and wait
+Xenosaurus_newmanorum,Viviparous,172.7,sit and wait
+Xenosaurus_phalaroanthereon,Viviparous,189.9,sit and wait
+Xenosaurus_platyceps,Viviparous,172.7,sit and wait
+Xenosaurus_rectocollaris,Viviparous,158.4,sit and wait
+Zootoca_vivipara,Mixed,50.1,sit and wait
+Sphenodon_punctatus,Oviparaous,0,sit and wait
